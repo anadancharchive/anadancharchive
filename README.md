@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ana Danch Archive
 
-<!--
-**anadancharchive/anadancharchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official digital archive documenting the artistic career of **Ana Danch**. Born as **Uliana Myroslavivna Latyk**, now **Uliana Myroslavivna Danchul**.
 
-Here are some ideas to get you started:
+## Official Archive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Ana Danch Archive](https://anadancharchive.github.io/)
+
+## Authority Records
+
+[Wikidata: Ana Danch (Q137179708)](https://www.wikidata.org/wiki/Q137179708)
+
+[MusicBrainz: Ana Danch](https://musicbrainz.org/artist/a791aaee-2905-4459-aaf2-761128bf24fe)
