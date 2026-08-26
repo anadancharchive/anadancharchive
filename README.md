@@ -1,8 +1,8 @@
 # Ana Danch Archive
 
-Official digital archive documenting the artistic career of **Ana Danch**. Born as **Uliana Myroslavivna Latyk**, now **Uliana Myroslavivna Danchul**.
+Official digital archive documenting the artistic career of **Ana Danch**, the stage name of Ukrainian singer and songwriter **Uliana Myroslavivna Danchul** (born **Uliana Myroslavivna Latyk**).
 
-During an earlier period of her career, she used the professional names **Lyana Novak** and **Liana Novak**.
+Earlier in her career, she appeared under her birth name **Uliana Latyk** and later used the professional names **Lyana Novak** and **Liana Novak**.
 
 ## Official Archive
 
